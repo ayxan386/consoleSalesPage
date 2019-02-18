@@ -1,0 +1,16 @@
+[V]JSON file with all products
+[V]Reading JSON file showing all list to user
+    [V]Add categorization
+    [V]Add ability to querry the DB
+[V]Cart and total cost
+    [x](Optional)Add shipping cost))
+[x]Checkout to complete shopping
+[V]Ability to add new items to DB from console
+
+######################################################
+[V]Main class with infinite loop talking to user
+[v]DB class with querry function
+[v]Cart class with dynamic arraylist
+    [x]Add additional remove from cart option
+[V]Seller class which adds the new items
+[x](Optional)Record logs of user commands

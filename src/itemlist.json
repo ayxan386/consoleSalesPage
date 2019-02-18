@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "name" : "Wireless Earphone",
+        "value": 25,
+        "seller" : "randomSeller",
+        "country of origin" : "China",
+        "description" : "wireless headset with up to 2 hour capacity",
+        "category": "phone accessory"
+    },
+    {
+        "id" : 0,
+        "name" : "Wireless Earphone",
+        "value": 35,
+        "seller" : "another randomSeller",
+        "country of origin" : "U.S.A",
+        "description" : "wireless headset with up to 3 hour capacity",
+        "category": "phone accessory"
+    }
+]
